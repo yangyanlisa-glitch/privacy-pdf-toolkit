@@ -8,6 +8,7 @@
 - 現在の `sitemap.xml`、`robots.txt`、`index.html`、SEOページのcanonical URLでは、本番URLとして `https://privacy-pdf-toolkit.yangyanlisa.workers.dev/` を使用しています。独自ドメインを設定する際は、このURLを新しい本番ドメインに一括置換してください。
 - 現時点の設計では、PDF本体はブラウザ内で処理され、当ツールのサーバーへアップロードされません。
 - ただし、初期HTMLでは Google Fonts、CDN上のPDF.js、OGP画像など一部の外部アセット参照があります。これはPDFファイル送信とは別の通信です。
+- GA4を有効にした場合、ページ閲覧イベントなどのアクセス解析データはGoogle Analyticsへ送信されます。PDFファイル本体やPDFの中身はGA4へ送信しません。
 - 完全オフライン版では、PDF.js workerとフォントをローカル同梱し、外部アセット参照をなくす予定です。
 
 ---
@@ -65,8 +66,27 @@
      - `robots.txt` & `sitemap.xml` (クロール・インデックス制御完了)
      - `manifest.json` (Progressive Web App対応・アプリカラー `#0d9488` / ダークモード親和性)
      - canonicalタグ (`https://privacy-pdf-toolkit.yangyanlisa.workers.dev/`)
-     - Google Analytics (GA4) プレースホルダーの設置
-     - `_redirects` (Cloudflare Pages用のSPAダイレクトルーティング設定)
+     - Google Analytics (GA4) 設定ブロックの設置
+     - `_redirects` なしのVite SPA公開構成
+
+---
+
+## Google Analytics 4 (GA4) の設定
+
+GA4は `index.html` の `<head>` 内にある `window.PRIVACY_PDF_TOOLKIT_CONFIG` だけで設定します。
+
+```html
+window.PRIVACY_PDF_TOOLKIT_CONFIG = {
+  ga4MeasurementId: 'G-6HJE1ZHWM8'
+};
+```
+
+1. Google AnalyticsでWebデータストリームを作成します。
+2. 測定ID（現在は `G-6HJE1ZHWM8`）を確認します。
+3. `index.html` の `ga4MeasurementId` に測定IDを入れます。
+4. `npm run build` を実行し、生成された `dist/index.html` を公開します。
+
+GA4を無効にしたい場合は、`ga4MeasurementId` を空文字 `''` に戻してください。空文字のままではGA4スクリプトを読み込まず、Google Analyticsへの通信も発生しません。
 
 ---
 

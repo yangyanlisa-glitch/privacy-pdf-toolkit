@@ -14,16 +14,34 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="theme-color" content="#0d9488" />
 
-    <!-- Google Analytics (GA4) Placeholder -->
-    <!-- UNCOMMENT & REPLACE WITH YOUR MEASUREMENT ID OUTSIDE OF SANDBOX
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <!-- Site configuration: set ga4MeasurementId to enable GA4 in production. -->
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-XXXXXXXXXX');
+      window.PRIVACY_PDF_TOOLKIT_CONFIG = {
+        ga4MeasurementId: 'G-6HJE1ZHWM8'
+      };
     </script>
-    -->
+    <script>
+      (function () {
+        var measurementId = window.PRIVACY_PDF_TOOLKIT_CONFIG && window.PRIVACY_PDF_TOOLKIT_CONFIG.ga4MeasurementId;
+        if (!measurementId) return;
+
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function gtag() {
+          window.dataLayer.push(arguments);
+        };
+
+        var gaScript = document.createElement('script');
+        gaScript.async = true;
+        gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(measurementId);
+        document.head.appendChild(gaScript);
+
+        window.gtag('js', new Date());
+        window.gtag('config', measurementId, {
+          anonymize_ip: true,
+          send_page_view: true
+        });
+      })();
+    </script>
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
