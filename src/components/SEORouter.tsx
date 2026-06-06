@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @license
  * SPDX-License-Identifier: Apache-2.5
  */
@@ -37,7 +37,7 @@ export default function SEORouter({ currentPath, onNavigateHome, onSelectTool }:
 
       // 3. Update canonical tag
       let canonicalTag = document.querySelector('link[rel="canonical"]');
-      const canonicalUrl = `https://privacypdf.pages.dev/${pageData.slug}`;
+      const canonicalUrl = `https://privacy-pdf-toolkit.yangyanlisa.workers.dev/${pageData.slug}`;
       if (canonicalTag) {
         canonicalTag.setAttribute('href', canonicalUrl);
       } else {
@@ -75,7 +75,7 @@ export default function SEORouter({ currentPath, onNavigateHome, onSelectTool }:
         "isPartOf": {
           "@type": "WebSite",
           "name": "Privacy PDF Toolkit",
-          "url": "https://privacypdf.pages.dev/"
+          "url": "https://privacy-pdf-toolkit.yangyanlisa.workers.dev/"
         },
         "about": {
           "@type": "Thing",
@@ -91,7 +91,7 @@ export default function SEORouter({ currentPath, onNavigateHome, onSelectTool }:
           "name": "Privacy PDF Toolkit Team",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://privacypdf.pages.dev/favicon.svg"
+            "url": "https://privacy-pdf-toolkit.yangyanlisa.workers.dev/favicon.svg"
           }
         }
       };

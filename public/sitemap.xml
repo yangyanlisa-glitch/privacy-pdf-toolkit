@@ -1,310 +1,310 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Public URL base is temporary: https://privacypdf.pages.dev/
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Public URL base: https://privacy-pdf-toolkit.yangyanlisa.workers.dev/
      When a custom domain is ready, replace this base URL in sitemap.xml,
-     robots.txt, index.html, and SEO canonical URLs. -->
+     robots.txt, index.html, README, and SEO canonical URLs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://privacypdf.pages.dev/</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/secure-pdf-compressor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/secure-pdf-compressor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/offline-pdf-compressor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/offline-pdf-compressor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/privacy-pdf-tools</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/privacy-pdf-tools</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/local-pdf-compression</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/local-pdf-compression</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/pdf-compressor-without-upload</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/pdf-compressor-without-upload</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/gdpr-pdf-tools</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/gdpr-pdf-tools</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/hipaa-pdf-compressor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/hipaa-pdf-compressor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/confidential-pdf-merger</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/confidential-pdf-merger</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/secure-pdf-joiner</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/secure-pdf-joiner</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/private-pdf-splitter</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/private-pdf-splitter</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/local-pdf-rotator</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/local-pdf-rotator</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/browser-based-pdf-editor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/browser-based-pdf-editor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/zero-upload-pdf-compress</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/zero-upload-pdf-compress</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/offline-pdf-merger</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/offline-pdf-merger</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/sensitive-data-pdf-tools</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/sensitive-data-pdf-tools</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/safe-pdf-shrink</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/safe-pdf-shrink</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/law-firm-pdf-compressor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/law-firm-pdf-compressor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/medical-records-pdf-splitter</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/medical-records-pdf-splitter</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/financial-report-pdf-merge</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/financial-report-pdf-merge</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/accounting-pdf-toolkit</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/accounting-pdf-toolkit</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/corporate-pdf-compliance</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/corporate-pdf-compliance</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/client-side-pdf-optimizer</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/client-side-pdf-optimizer</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/webassembly-pdf-processing</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/webassembly-pdf-processing</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/isomorphic-pdf-merger</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/isomorphic-pdf-merger</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/no-server-pdf-splitter</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/no-server-pdf-splitter</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/desktop-grade-pdf-compression</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/desktop-grade-pdf-compression</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/encrypted-pdf-rotation</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/encrypted-pdf-rotation</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/government-compliant-pdf-tools</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/government-compliant-pdf-tools</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/high-security-pdf-reduction</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/high-security-pdf-reduction</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/on-device-pdf-editor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/on-device-pdf-editor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/no-cloud-pdf-tools</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/no-cloud-pdf-tools</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/on-premise-pdf-compressor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/on-premise-pdf-compressor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/enterprise-privacy-pdf</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/enterprise-privacy-pdf</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/pci-compliant-pdf-merger</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/pci-compliant-pdf-merger</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/ferpa-pdf-splitter</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/ferpa-pdf-splitter</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/tax-document-pdf-compress</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/tax-document-pdf-compress</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/contract-pdf-merger</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/contract-pdf-merger</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/patient-folder-pdf-minify</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/patient-folder-pdf-minify</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/military-grade-pdf-rotator</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/military-grade-pdf-rotator</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/audit-firm-pdf-tools</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/audit-firm-pdf-tools</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/safe-contract-optimization</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/safe-contract-optimization</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/offline-page-extractor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/offline-page-extractor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/fast-local-pdf-stitcher</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/fast-local-pdf-stitcher</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/private-pdf-page-rotator</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/private-pdf-page-rotator</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/low-bandwidth-pdf-compressor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/low-bandwidth-pdf-compressor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/regulatory-compliancy-pdf</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/regulatory-compliancy-pdf</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/nd-documents-pdf-merger</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/nd-documents-pdf-merger</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/highly-confidential-pdf-splitter</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/highly-confidential-pdf-splitter</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/no-tracking-pdf-compressor</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/no-tracking-pdf-compressor</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://privacypdf.pages.dev/sox-compliant-pdf-compression</loc>
+    <loc>https://privacy-pdf-toolkit.yangyanlisa.workers.dev/sox-compliant-pdf-compression</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

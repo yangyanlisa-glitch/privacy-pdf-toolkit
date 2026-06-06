@@ -1,11 +1,11 @@
-# Privacy PDF Toolkit
+﻿# Privacy PDF Toolkit
 
 100% ブラウザ処理・完全ローカル動作のプライバシー最優先 PDF ユーティリティ。  
 アップロードされた PDF ファイルは、外部のサーバーやサードパーティ API に一切送信されません。すべての処理（圧縮、結合、分割、回転）はあなたのブラウザ内だけで完結します。
 
 ## 公開URLと外部アセットに関する注意
 
-- 現在の `sitemap.xml`、`robots.txt`、`index.html`、SEOページのcanonical URLでは、仮ドメインとして `https://privacypdf.pages.dev/` を使用しています。独自ドメインを設定する際は、このURLを新しい本番ドメインに一括置換してください。
+- 現在の `sitemap.xml`、`robots.txt`、`index.html`、SEOページのcanonical URLでは、本番URLとして `https://privacy-pdf-toolkit.yangyanlisa.workers.dev/` を使用しています。独自ドメインを設定する際は、このURLを新しい本番ドメインに一括置換してください。
 - 現時点の設計では、PDF本体はブラウザ内で処理され、当ツールのサーバーへアップロードされません。
 - ただし、初期HTMLでは Google Fonts、CDN上のPDF.js、OGP画像など一部の外部アセット参照があります。これはPDFファイル送信とは別の通信です。
 - 完全オフライン版では、PDF.js workerとフォントをローカル同梱し、外部アセット参照をなくす予定です。
@@ -64,7 +64,7 @@
      - `favicon.svg` (クリーンなベクターシールド＆PDFマークのカスタムアイコン)
      - `robots.txt` & `sitemap.xml` (クロール・インデックス制御完了)
      - `manifest.json` (Progressive Web App対応・アプリカラー `#0d9488` / ダークモード親和性)
-     - canonicalタグ (`https://privacypdf.pages.dev/`)
+     - canonicalタグ (`https://privacy-pdf-toolkit.yangyanlisa.workers.dev/`)
      - Google Analytics (GA4) プレースホルダーの設置
      - `_redirects` (Cloudflare Pages用のSPAダイレクトルーティング設定)
 
