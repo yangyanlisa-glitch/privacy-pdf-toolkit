@@ -1,0 +1,6 @@
+{
+  "name": "Privacy PDF Toolkit",
+  "description": "Your PDFs never leave your machine - 100% browser-processed PDF optimizer, merge, split, and rotate utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
